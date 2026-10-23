@@ -1,11 +1,10 @@
 # HILL CIPHER
 HILL CIPHER
-EX. NO: 3 AIM:
- Name:Manimaran V
- Reg.no:212224220060
-
+EX. NO: 3 
+AIM:
 IMPLEMENTATION OF HILL CIPHER
- 
+  Name:Manimaran V
+ Reg.no:212224220060
 ## To write a C program to implement the hill cipher substitution techniques.
 
 ## DESCRIPTION:
